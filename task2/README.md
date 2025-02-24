@@ -2,7 +2,7 @@
 
 This project implements a pipeline that combines Named Entity Recognition (NER) and Image Classification to verify if a user's statement about an image is correct. The pipeline consists of two models:
 
-1. **NER Model**: Extracts animal names from text. Uses BART model that was pretrained on labeled dataset
+1. **NER Model**: Extracts animal names from text. Uses BART model that was pretrained on labeled dataset. (NER model is not inside the repo files, because of big size of the model, additional NER model training is neaded)
 2. **Image Classification Model**: Classifies animals in images. Uses MobileNetV2 model that was pretrained on animals dataset 
 
 The pipeline takes a text input (e.g., "There is a cow in the picture.") and an image as input and outputs a boolean value indicating whether the statement is correct.
@@ -49,7 +49,7 @@ python src/pipeline.py --text "There is a cow in the picture."
 
 # Datasets
 - For NER model training was used synthetically created and manually labeled dataset
-- For Image Classification Model Animals-10 dateset from Kaggle was used 
+- For Image Classification Model Animals-10 dateset from Kaggle was used (get full dataset on https://www.kaggle.com/datasets/alessiocorrado99/animals10/code)
 
 # Demo
 Is available in `demo.ipynb`
