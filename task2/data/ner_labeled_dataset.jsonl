@@ -1,0 +1,423 @@
+{"id":1502,"text":"The cat is next to the barn.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1503,"text":"The squirrel stayed still for a while.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1504,"text":"They couldn't find the cat at first.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1505,"text":"I don't see any cow in the photo.","label":[[2,7,"NEGATED"],[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1506,"text":"Is there a spider here?","label":[[11,17,"ANIMAL"]],"Comments":[]}
+{"id":1507,"text":"I don't see any chicken in the photo.","label":[[2,7,"NEGATED"],[16,23,"ANIMAL"]],"Comments":[]}
+{"id":1508,"text":"The cow is next to the barn.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1509,"text":"There is a dog in the picture.","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1510,"text":"Someone said there's a squirrel in this image.","label":[[23,31,"ANIMAL"]],"Comments":[]}
+{"id":1511,"text":"It’s hard to tell if that’s a squirrel.","label":[[30,38,"ANIMAL"]],"Comments":[]}
+{"id":1512,"text":"Everyone noticed the elephant immediately.","label":[[21,29,"ANIMAL"]],"Comments":[]}
+{"id":1513,"text":"The dog stayed still for a while.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1514,"text":"They captured a squirrel on camera.","label":[[16,24,"ANIMAL"]],"Comments":[]}
+{"id":1515,"text":"I don't see any sheep in the photo.","label":[[2,7,"NEGATED"],[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1516,"text":"What a beautiful spider in the photo!","label":[[17,23,"ANIMAL"]],"Comments":[]}
+{"id":1517,"text":"Can you spot the cat in this image?","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1518,"text":"They couldn't find the sheep at first.","label":[[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1519,"text":"The chicken was playing in the yard.","label":[[4,11,"ANIMAL"]],"Comments":[]}
+{"id":1520,"text":"He mentioned seeing a horse earlier.","label":[[22,27,"ANIMAL"]],"Comments":[]}
+{"id":1521,"text":"The sheep is next to the barn.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1522,"text":"No cow can be found in this picture.","label":[[0,2,"NEGATED"],[3,6,"ANIMAL"]],"Comments":[]}
+{"id":1523,"text":"Can you spot the butterfly in this image?","label":[[17,26,"ANIMAL"]],"Comments":[]}
+{"id":1524,"text":"I saw a elephant near the house.","label":[[8,16,"ANIMAL"]],"Comments":[]}
+{"id":1525,"text":"Can you spot the squirrel in this image?","label":[[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1526,"text":"Can you spot the spider in this image?","label":[[17,23,"ANIMAL"]],"Comments":[]}
+{"id":1527,"text":"The horse stayed still for a while.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1528,"text":"The horse was playing in the yard.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1529,"text":"No horse can be found in this picture.","label":[[0,2,"NEGATED"],[3,8,"ANIMAL"]],"Comments":[]}
+{"id":1530,"text":"This picture lacks any cow.","label":[[13,18,"NEGATED"],[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1531,"text":"He mentioned seeing a dog earlier.","label":[[22,25,"ANIMAL"]],"Comments":[]}
+{"id":1532,"text":"Can you spot the elephant in this image?","label":[[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1533,"text":"Someone said there's a spider in this image.","label":[[23,29,"ANIMAL"]],"Comments":[]}
+{"id":1534,"text":"They couldn't find the butterfly at first.","label":[[23,32,"ANIMAL"]],"Comments":[]}
+{"id":1535,"text":"The elephant was playing in the yard.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1536,"text":"The horse hid behind the tree.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1537,"text":"No spider can be found in this picture.","label":[[0,2,"NEGATED"],[3,9,"ANIMAL"]],"Comments":[]}
+{"id":1538,"text":"The elephant hid behind the tree.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1539,"text":"That looks like a elephant, doesn't it?","label":[[18,26,"ANIMAL"]],"Comments":[]}
+{"id":1540,"text":"Do you think that's a squirrel?","label":[[22,30,"ANIMAL"]],"Comments":[]}
+{"id":1541,"text":"Do you see the butterfly in the corner?","label":[[15,24,"ANIMAL"]],"Comments":[]}
+{"id":1542,"text":"One butterfly stood out among the others.","label":[[4,13,"ANIMAL"]],"Comments":[]}
+{"id":1543,"text":"Do you see the horse in the corner?","label":[[15,20,"ANIMAL"]],"Comments":[]}
+{"id":1544,"text":"It’s hard to tell if that’s a horse.","label":[[30,35,"ANIMAL"]],"Comments":[]}
+{"id":1545,"text":"Everyone noticed the dog immediately.","label":[[21,24,"ANIMAL"]],"Comments":[]}
+{"id":1546,"text":"Do you think that's a cat?","label":[[22,25,"ANIMAL"]],"Comments":[]}
+{"id":1547,"text":"A group of cats can be seen here.","label":[[11,15,"ANIMAL"]],"Comments":[]}
+{"id":1548,"text":"The spider hid behind the tree.","label":[[4,10,"ANIMAL"]],"Comments":[]}
+{"id":1549,"text":"Everyone noticed the chicken immediately.","label":[[21,28,"ANIMAL"]],"Comments":[]}
+{"id":1550,"text":"I believe that's a squirrel.","label":[[19,27,"ANIMAL"]],"Comments":[]}
+{"id":1551,"text":"That looks like a cat, doesn't it?","label":[[18,21,"ANIMAL"]],"Comments":[]}
+{"id":1552,"text":"Is there a dog here?","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1553,"text":"I believe that's a horse.","label":[[19,24,"ANIMAL"]],"Comments":[]}
+{"id":1554,"text":"Do you see the dog in the corner?","label":[[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1555,"text":"Look at the cow climbing the tree.","label":[[12,15,"ANIMAL"]],"Comments":[]}
+{"id":1556,"text":"The cat ran across the field.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1557,"text":"Look at the butterfly climbing the tree.","label":[[12,21,"ANIMAL"]],"Comments":[]}
+{"id":1558,"text":"A cow appeared suddenly.","label":[[2,5,"ANIMAL"]],"Comments":[]}
+{"id":1559,"text":"The horse ran across the field.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1560,"text":"No squirrel can be found in this picture.","label":[[0,2,"NEGATED"],[3,11,"ANIMAL"]],"Comments":[]}
+{"id":1561,"text":"What a beautiful squirrel in the photo!","label":[[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1562,"text":"He mentioned seeing a elephant earlier.","label":[[22,30,"ANIMAL"]],"Comments":[]}
+{"id":1563,"text":"One cow stood out among the others.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1564,"text":"There might be a cat in the background.","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1565,"text":"It’s hard to tell if that’s a chicken.","label":[[30,37,"ANIMAL"]],"Comments":[]}
+{"id":1566,"text":"They saw a cow while walking.","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1567,"text":"Everyone noticed the sheep immediately.","label":[[21,26,"ANIMAL"]],"Comments":[]}
+{"id":1568,"text":"They saw a butterfly while walking.","label":[[11,20,"ANIMAL"]],"Comments":[]}
+{"id":1569,"text":"Look at the squirrel climbing the tree.","label":[[12,20,"ANIMAL"]],"Comments":[]}
+{"id":1570,"text":"This picture lacks any sheep.","label":[[13,18,"NEGATED"],[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1571,"text":"They captured a horse on camera.","label":[[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1572,"text":"They couldn't find the chicken at first.","label":[[23,30,"ANIMAL"]],"Comments":[]}
+{"id":1573,"text":"This picture lacks any elephant.","label":[[13,18,"NEGATED"],[23,31,"ANIMAL"]],"Comments":[]}
+{"id":1574,"text":"There is a cow in the picture.","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1575,"text":"I don't see any cat in the photo.","label":[[2,7,"NEGATED"],[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1576,"text":"The dog was playing in the yard.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1577,"text":"They captured a spider on camera.","label":[[16,22,"ANIMAL"]],"Comments":[]}
+{"id":1578,"text":"There might be a squirrel in the background.","label":[[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1579,"text":"The squirrel was playing in the yard.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1580,"text":"They couldn't find the squirrel at first.","label":[[23,31,"ANIMAL"]],"Comments":[]}
+{"id":1581,"text":"Someone said there's a chicken in this image.","label":[[23,30,"ANIMAL"]],"Comments":[]}
+{"id":1582,"text":"Is there a squirrel here?","label":[[11,19,"ANIMAL"]],"Comments":[]}
+{"id":1583,"text":"They saw a elephant while walking.","label":[[11,19,"ANIMAL"]],"Comments":[]}
+{"id":1584,"text":"They saw a sheep while walking.","label":[[11,16,"ANIMAL"]],"Comments":[]}
+{"id":1585,"text":"Can you spot the cow in this image?","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1586,"text":"Is there a cat here?","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1587,"text":"A squirrel and a horse are visible.","label":[[2,10,"ANIMAL"],[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1588,"text":"The squirrel hid behind the tree.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1589,"text":"It’s hard to tell if that’s a butterfly.","label":[[30,39,"ANIMAL"]],"Comments":[]}
+{"id":1590,"text":"I believe that's a spider.","label":[[19,25,"ANIMAL"]],"Comments":[]}
+{"id":1591,"text":"The butterfly ran across the field.","label":[[4,13,"ANIMAL"]],"Comments":[]}
+{"id":1592,"text":"Do you see the chicken in the corner?","label":[[15,22,"ANIMAL"]],"Comments":[]}
+{"id":1593,"text":"I saw a squirrel near the house.","label":[[8,16,"ANIMAL"]],"Comments":[]}
+{"id":1594,"text":"They saw a horse while walking.","label":[[11,16,"ANIMAL"]],"Comments":[]}
+{"id":1595,"text":"The sheep hid behind the tree.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1596,"text":"They captured a dog on camera.","label":[[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1597,"text":"Look at the horse climbing the tree.","label":[[12,17,"ANIMAL"]],"Comments":[]}
+{"id":1598,"text":"I believe that's a elephant.","label":[[19,27,"ANIMAL"]],"Comments":[]}
+{"id":1599,"text":"A elephant appeared suddenly.","label":[[2,10,"ANIMAL"]],"Comments":[]}
+{"id":1600,"text":"I believe that's a cow.","label":[[19,22,"ANIMAL"]],"Comments":[]}
+{"id":1601,"text":"It’s hard to tell if that’s a cow.","label":[[30,33,"ANIMAL"]],"Comments":[]}
+{"id":1602,"text":"This picture lacks any dog.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1603,"text":"Can you spot the chicken in this image?","label":[[17,24,"ANIMAL"]],"Comments":[]}
+{"id":1604,"text":"A squirrel and a cow are visible.","label":[[2,10,"ANIMAL"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1605,"text":"The squirrel is next to the barn.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1606,"text":"I don't see any dog in the photo.","label":[[2,7,"NEGATED"],[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1607,"text":"There might be a horse in the background.","label":[[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1608,"text":"No elephant can be found in this picture.","label":[[0,2,"NEGATED"],[3,11,"ANIMAL"]],"Comments":[]}
+{"id":1609,"text":"One sheep stood out among the others.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1610,"text":"The dog hid behind the tree.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1611,"text":"This picture lacks any chicken.","label":[[13,18,"NEGATED"],[23,30,"ANIMAL"]],"Comments":[]}
+{"id":1612,"text":"The cat was playing in the yard.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1613,"text":"I believe that's a butterfly.","label":[[19,28,"ANIMAL"]],"Comments":[]}
+{"id":1614,"text":"No dog can be found in this picture.","label":[[0,2,"NEGATED"],[3,6,"ANIMAL"]],"Comments":[]}
+{"id":1615,"text":"A chicken appeared suddenly.","label":[[2,9,"ANIMAL"]],"Comments":[]}
+{"id":1616,"text":"The elephant ran across the field.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1617,"text":"I don't see any spider in the photo.","label":[[2,7,"NEGATED"],[16,22,"ANIMAL"]],"Comments":[]}
+{"id":1618,"text":"A elephant and a cat are visible.","label":[[2,10,"ANIMAL"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1619,"text":"What a beautiful butterfly in the photo!","label":[[17,26,"ANIMAL"]],"Comments":[]}
+{"id":1620,"text":"I saw a horse near the house.","label":[[8,13,"ANIMAL"]],"Comments":[]}
+{"id":1621,"text":"Someone said there's a horse in this image.","label":[[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1622,"text":"They captured a sheep on camera.","label":[[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1623,"text":"The sheep ran across the field.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1624,"text":"I saw a chicken near the house.","label":[[8,15,"ANIMAL"]],"Comments":[]}
+{"id":1625,"text":"What a beautiful dog in the photo!","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1626,"text":"That looks like a spider, doesn't it?","label":[[18,24,"ANIMAL"]],"Comments":[]}
+{"id":1627,"text":"Can you spot the horse in this image?","label":[[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1628,"text":"Do you think that's a spider?","label":[[22,28,"ANIMAL"]],"Comments":[]}
+{"id":1629,"text":"Everyone noticed the squirrel immediately.","label":[[21,29,"ANIMAL"]],"Comments":[]}
+{"id":1630,"text":"A spider and a chicken are visible.","label":[[2,8,"ANIMAL"],[15,22,"ANIMAL"]],"Comments":[]}
+{"id":1631,"text":"I don't see any horse in the photo.","label":[[2,7,"NEGATED"],[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1632,"text":"A dog appeared suddenly.","label":[[2,5,"ANIMAL"]],"Comments":[]}
+{"id":1633,"text":"Do you think that's a butterfly?","label":[[22,31,"ANIMAL"]],"Comments":[]}
+{"id":1634,"text":"I saw a dog near the house.","label":[[8,11,"ANIMAL"]],"Comments":[]}
+{"id":1635,"text":"One elephant stood out among the others.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1636,"text":"A cat appeared suddenly.","label":[[2,5,"ANIMAL"]],"Comments":[]}
+{"id":1637,"text":"It’s hard to tell if that’s a sheep.","label":[[30,35,"ANIMAL"]],"Comments":[]}
+{"id":1638,"text":"I saw a spider near the house.","label":[[8,14,"ANIMAL"]],"Comments":[]}
+{"id":1639,"text":"Do you see the cow in the corner?","label":[[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1640,"text":"There is a horse in the picture.","label":[[11,16,"ANIMAL"]],"Comments":[]}
+{"id":1641,"text":"There is a squirrel in the picture.","label":[[11,19,"ANIMAL"]],"Comments":[]}
+{"id":1642,"text":"A dog and a butterfly are visible.","label":[[2,5,"ANIMAL"],[12,21,"ANIMAL"]],"Comments":[]}
+{"id":1643,"text":"The dog ran across the field.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1644,"text":"A horse appeared suddenly.","label":[[2,7,"ANIMAL"]],"Comments":[]}
+{"id":1645,"text":"That looks like a chicken, doesn't it?","label":[[18,25,"ANIMAL"]],"Comments":[]}
+{"id":1646,"text":"This picture lacks any horse.","label":[[13,18,"NEGATED"],[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1647,"text":"A horse and a butterfly are visible.","label":[[2,7,"ANIMAL"],[14,23,"ANIMAL"]],"Comments":[]}
+{"id":1648,"text":"He mentioned seeing a cat earlier.","label":[[22,25,"ANIMAL"]],"Comments":[]}
+{"id":1649,"text":"That looks like a sheep, doesn't it?","label":[[18,23,"ANIMAL"]],"Comments":[]}
+{"id":1650,"text":"The cow hid behind the tree.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1651,"text":"There might be a cow in the background.","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1652,"text":"The spider was playing in the yard.","label":[[4,10,"ANIMAL"]],"Comments":[]}
+{"id":1653,"text":"What a beautiful cat in the photo!","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1654,"text":"What a beautiful sheep in the photo!","label":[[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1655,"text":"Someone said there's a dog in this image.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1656,"text":"Do you think that's a elephant?","label":[[22,30,"ANIMAL"]],"Comments":[]}
+{"id":1657,"text":"Do you think that's a dog?","label":[[22,25,"ANIMAL"]],"Comments":[]}
+{"id":1658,"text":"The butterfly was playing in the yard.","label":[[4,13,"ANIMAL"]],"Comments":[]}
+{"id":1659,"text":"The sheep stayed still for a while.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1660,"text":"A horse and a cat are visible.","label":[[2,7,"ANIMAL"],[14,17,"ANIMAL"]],"Comments":[]}
+{"id":1661,"text":"A spider appeared suddenly.","label":[[2,8,"ANIMAL"]],"Comments":[]}
+{"id":1662,"text":"There might be a sheep in the background.","label":[[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1663,"text":"A chicken and a butterfly are visible.","label":[[2,9,"ANIMAL"],[16,25,"ANIMAL"]],"Comments":[]}
+{"id":1664,"text":"They captured a cat on camera.","label":[[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1665,"text":"Is there a chicken here?","label":[[11,18,"ANIMAL"]],"Comments":[]}
+{"id":1666,"text":"They couldn't find the elephant at first.","label":[[23,31,"ANIMAL"]],"Comments":[]}
+{"id":1667,"text":"That looks like a dog, doesn't it?","label":[[18,21,"ANIMAL"]],"Comments":[]}
+{"id":1668,"text":"I don't see any butterfly in the photo.","label":[[2,7,"NEGATED"],[16,25,"ANIMAL"]],"Comments":[]}
+{"id":1669,"text":"That looks like a cow, doesn't it?","label":[[18,21,"ANIMAL"]],"Comments":[]}
+{"id":1670,"text":"The cow stayed still for a while.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1671,"text":"Look at the dog climbing the tree.","label":[[12,15,"ANIMAL"]],"Comments":[]}
+{"id":1672,"text":"Everyone noticed the cat immediately.","label":[[21,24,"ANIMAL"]],"Comments":[]}
+{"id":1673,"text":"It’s hard to tell if that’s a dog.","label":[[30,33,"ANIMAL"]],"Comments":[]}
+{"id":1674,"text":"One dog stood out among the others.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1675,"text":"Do you think that's a chicken?","label":[[22,29,"ANIMAL"]],"Comments":[]}
+{"id":1676,"text":"This picture lacks any butterfly.","label":[[13,18,"NEGATED"],[23,32,"ANIMAL"]],"Comments":[]}
+{"id":1677,"text":"They saw a chicken while walking.","label":[[11,18,"ANIMAL"]],"Comments":[]}
+{"id":1678,"text":"What a beautiful chicken in the photo!","label":[[17,24,"ANIMAL"]],"Comments":[]}
+{"id":1679,"text":"Is there a horse here?","label":[[11,16,"ANIMAL"]],"Comments":[]}
+{"id":1680,"text":"Can you spot the dog in this image?","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1681,"text":"The spider ran across the field.","label":[[4,10,"ANIMAL"]],"Comments":[]}
+{"id":1682,"text":"What a beautiful horse in the photo!","label":[[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1683,"text":"They captured a elephant on camera.","label":[[16,24,"ANIMAL"]],"Comments":[]}
+{"id":1684,"text":"There might be a chicken in the background.","label":[[17,24,"ANIMAL"]],"Comments":[]}
+{"id":1685,"text":"It’s hard to tell if that’s a elephant.","label":[[30,38,"ANIMAL"]],"Comments":[]}
+{"id":1686,"text":"A group of elephants can be seen here.","label":[[11,20,"ANIMAL"]],"Comments":[]}
+{"id":1687,"text":"There is a spider in the picture.","label":[[11,17,"ANIMAL"]],"Comments":[]}
+{"id":1688,"text":"Everyone noticed the spider immediately.","label":[[21,27,"ANIMAL"]],"Comments":[]}
+{"id":1689,"text":"Look at the cat climbing the tree.","label":[[12,15,"ANIMAL"]],"Comments":[]}
+{"id":1690,"text":"There might be a dog in the background.","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1691,"text":"Someone said there's a elephant in this image.","label":[[23,31,"ANIMAL"]],"Comments":[]}
+{"id":1692,"text":"Look at the chicken climbing the tree.","label":[[12,19,"ANIMAL"]],"Comments":[]}
+{"id":1693,"text":"He mentioned seeing a sheep earlier.","label":[[22,27,"ANIMAL"]],"Comments":[]}
+{"id":1694,"text":"No chicken can be found in this picture.","label":[[0,2,"NEGATED"],[3,10,"ANIMAL"]],"Comments":[]}
+{"id":1695,"text":"I saw a butterfly near the house.","label":[[8,17,"ANIMAL"]],"Comments":[]}
+{"id":1696,"text":"He mentioned seeing a butterfly earlier.","label":[[22,31,"ANIMAL"]],"Comments":[]}
+{"id":1697,"text":"A butterfly appeared suddenly.","label":[[2,11,"ANIMAL"]],"Comments":[]}
+{"id":1698,"text":"Do you see the spider in the corner?","label":[[15,21,"ANIMAL"]],"Comments":[]}
+{"id":1699,"text":"This picture lacks any spider.","label":[[13,18,"NEGATED"],[23,29,"ANIMAL"]],"Comments":[]}
+{"id":1700,"text":"The elephant stayed still for a while.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1701,"text":"I believe that's a sheep.","label":[[19,24,"ANIMAL"]],"Comments":[]}
+{"id":1702,"text":"There might be a spider in the background.","label":[[17,23,"ANIMAL"]],"Comments":[]}
+{"id":1703,"text":"They captured a butterfly on camera.","label":[[16,25,"ANIMAL"]],"Comments":[]}
+{"id":1704,"text":"Look at the spider climbing the tree.","label":[[12,18,"ANIMAL"]],"Comments":[]}
+{"id":1705,"text":"A group of cows can be seen here.","label":[[11,15,"ANIMAL"]],"Comments":[]}
+{"id":1706,"text":"A squirrel appeared suddenly.","label":[[2,10,"ANIMAL"]],"Comments":[]}
+{"id":1707,"text":"Do you think that's a cow?","label":[[22,25,"ANIMAL"]],"Comments":[]}
+{"id":1708,"text":"This picture lacks any cat.","label":[[13,18,"NEGATED"],[19,22,"NEGATED"],[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1709,"text":"Do you see the squirrel in the corner?","label":[[15,23,"ANIMAL"]],"Comments":[]}
+{"id":1710,"text":"He mentioned seeing a spider earlier.","label":[[22,28,"ANIMAL"]],"Comments":[]}
+{"id":1711,"text":"What a beautiful elephant in the photo!","label":[[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1712,"text":"It’s hard to tell if that’s a cat.","label":[[30,33,"ANIMAL"]],"Comments":[]}
+{"id":1713,"text":"A horse and a cow are visible.","label":[[2,7,"ANIMAL"],[14,17,"ANIMAL"]],"Comments":[]}
+{"id":1714,"text":"A elephant and a squirrel are visible.","label":[[2,10,"ANIMAL"],[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1715,"text":"Do you see the cat in the corner?","label":[[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1716,"text":"One horse stood out among the others.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1717,"text":"The chicken is next to the barn.","label":[[4,11,"ANIMAL"]],"Comments":[]}
+{"id":1718,"text":"The cat stayed still for a while.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1719,"text":"Do you think that's a sheep?","label":[[22,27,"ANIMAL"]],"Comments":[]}
+{"id":1720,"text":"Do you see the elephant in the corner?","label":[[15,23,"ANIMAL"]],"Comments":[]}
+{"id":1721,"text":"Look at the sheep climbing the tree.","label":[[12,17,"ANIMAL"]],"Comments":[]}
+{"id":1722,"text":"No cat can be found in this picture.","label":[[0,2,"NEGATED"],[3,6,"ANIMAL"]],"Comments":[]}
+{"id":1723,"text":"They saw a spider while walking.","label":[[11,17,"ANIMAL"]],"Comments":[]}
+{"id":1724,"text":"A chicken and a cat are visible.","label":[[2,9,"ANIMAL"],[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1725,"text":"There is a cat in the picture.","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1726,"text":"I saw a cat near the house.","label":[[8,11,"ANIMAL"]],"Comments":[]}
+{"id":1727,"text":"Is there a cow here?","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1728,"text":"The dog is next to the barn.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1729,"text":"I saw a cow near the house.","label":[[8,11,"ANIMAL"]],"Comments":[]}
+{"id":1730,"text":"A spider and a cow are visible.","label":[[2,8,"ANIMAL"],[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1731,"text":"There might be a elephant in the background.","label":[[17,25,"ANIMAL"]],"Comments":[]}
+{"id":1732,"text":"Everyone noticed the horse immediately.","label":[[21,26,"ANIMAL"]],"Comments":[]}
+{"id":1733,"text":"A elephant and a spider are visible.","label":[[2,10,"ANIMAL"],[17,23,"ANIMAL"]],"Comments":[]}
+{"id":1734,"text":"No sheep can be found in this picture.","label":[[0,2,"NEGATED"],[3,8,"ANIMAL"]],"Comments":[]}
+{"id":1735,"text":"Do you think that's a horse?","label":[[22,27,"ANIMAL"]],"Comments":[]}
+{"id":1736,"text":"The butterfly is next to the barn.","label":[[4,13,"ANIMAL"]],"Comments":[]}
+{"id":1737,"text":"They couldn't find the horse at first.","label":[[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1738,"text":"A elephant and a dog are visible.","label":[[2,10,"ANIMAL"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1739,"text":"I believe that's a chicken.","label":[[19,26,"ANIMAL"]],"Comments":[]}
+{"id":1740,"text":"There is a sheep in the picture.","label":[[11,16,"ANIMAL"]],"Comments":[]}
+{"id":1741,"text":"Is there a sheep here?","label":[[11,16,"ANIMAL"]],"Comments":[]}
+{"id":1742,"text":"The cow was playing in the yard.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1743,"text":"That looks like a squirrel, doesn't it?","label":[[18,26,"ANIMAL"]],"Comments":[]}
+{"id":1744,"text":"The elephant is next to the barn.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1745,"text":"There is a butterfly in the picture.","label":[[11,20,"ANIMAL"]],"Comments":[]}
+{"id":1746,"text":"A group of butterflys can be seen here.","label":[[11,21,"ANIMAL"]],"Comments":[]}
+{"id":1747,"text":"I believe that's a dog.","label":[[19,22,"ANIMAL"]],"Comments":[]}
+{"id":1748,"text":"The chicken ran across the field.","label":[[4,11,"ANIMAL"]],"Comments":[]}
+{"id":1749,"text":"One cat stood out among the others.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1750,"text":"The butterfly hid behind the tree.","label":[[4,13,"ANIMAL"]],"Comments":[]}
+{"id":1751,"text":"They saw a dog while walking.","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1752,"text":"The squirrel ran across the field.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1753,"text":"That looks like a butterfly, doesn't it?","label":[[18,27,"ANIMAL"]],"Comments":[]}
+{"id":1754,"text":"A sheep appeared suddenly.","label":[[2,7,"ANIMAL"]],"Comments":[]}
+{"id":1755,"text":"I believe that's a cat.","label":[[19,22,"ANIMAL"]],"Comments":[]}
+{"id":1756,"text":"The horse is next to the barn.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1757,"text":"Someone said there's a cat in this image.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1758,"text":"The sheep was playing in the yard.","label":[[4,9,"ANIMAL"]],"Comments":[]}
+{"id":1759,"text":"They couldn't find the spider at first.","label":[[23,29,"ANIMAL"]],"Comments":[]}
+{"id":1760,"text":"He mentioned seeing a cow earlier.","label":[[22,25,"ANIMAL"]],"Comments":[]}
+{"id":1761,"text":"He mentioned seeing a chicken earlier.","label":[[22,29,"ANIMAL"]],"Comments":[]}
+{"id":1762,"text":"It’s hard to tell if that’s a spider.","label":[[30,36,"ANIMAL"]],"Comments":[]}
+{"id":1763,"text":"Do you see the sheep in the corner?","label":[[15,20,"ANIMAL"]],"Comments":[]}
+{"id":1764,"text":"They saw a cat while walking.","label":[[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1765,"text":"I don't see any elephant in the photo.","label":[[2,7,"NEGATED"],[16,24,"ANIMAL"]],"Comments":[]}
+{"id":1766,"text":"There might be a butterfly in the background.","label":[[17,26,"ANIMAL"]],"Comments":[]}
+{"id":1767,"text":"A sheep and a squirrel are visible.","label":[[2,7,"ANIMAL"],[14,22,"ANIMAL"]],"Comments":[]}
+{"id":1768,"text":"Someone said there's a sheep in this image.","label":[[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1769,"text":"The chicken stayed still for a while.","label":[[4,11,"ANIMAL"]],"Comments":[]}
+{"id":1770,"text":"That looks like a horse, doesn't it?","label":[[18,23,"ANIMAL"]],"Comments":[]}
+{"id":1771,"text":"The cat hid behind the tree.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1772,"text":"A group of spiders can be seen here.","label":[[11,18,"ANIMAL"]],"Comments":[]}
+{"id":1773,"text":"A cow and a butterfly are visible.","label":[[2,5,"ANIMAL"],[12,21,"ANIMAL"]],"Comments":[]}
+{"id":1774,"text":"Everyone noticed the butterfly immediately.","label":[[21,30,"ANIMAL"]],"Comments":[]}
+{"id":1775,"text":"A elephant and a cow are visible.","label":[[2,10,"ANIMAL"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1776,"text":"A squirrel and a dog are visible.","label":[[2,10,"ANIMAL"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1777,"text":"A group of chickens can be seen here.","label":[[11,19,"ANIMAL"]],"Comments":[]}
+{"id":1778,"text":"Is there a butterfly here?","label":[[11,20,"ANIMAL"]],"Comments":[]}
+{"id":1779,"text":"The cow ran across the field.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1780,"text":"A horse and a squirrel are visible.","label":[[2,7,"ANIMAL"],[14,22,"ANIMAL"]],"Comments":[]}
+{"id":1781,"text":"One spider stood out among the others.","label":[[4,10,"ANIMAL"]],"Comments":[]}
+{"id":1782,"text":"A group of dogs can be seen here.","label":[[11,15,"ANIMAL"]],"Comments":[]}
+{"id":1783,"text":"A sheep and a elephant are visible.","label":[[2,7,"ANIMAL"],[14,22,"ANIMAL"]],"Comments":[]}
+{"id":1784,"text":"They captured a cow on camera.","label":[[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1785,"text":"A group of horses can be seen here.","label":[[11,17,"ANIMAL"]],"Comments":[]}
+{"id":1786,"text":"A group of sheeps can be seen here.","label":[[11,17,"ANIMAL"]],"Comments":[]}
+{"id":1787,"text":"The spider stayed still for a while.","label":[[4,10,"ANIMAL"]],"Comments":[]}
+{"id":1788,"text":"One chicken stood out among the others.","label":[[4,11,"ANIMAL"]],"Comments":[]}
+{"id":1789,"text":"Can you spot the sheep in this image?","label":[[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1790,"text":"Someone said there's a cow in this image.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1791,"text":"There is a chicken in the picture.","label":[[11,18,"ANIMAL"]],"Comments":[]}
+{"id":1792,"text":"A group of squirrels can be seen here.","label":[[11,20,"ANIMAL"]],"Comments":[]}
+{"id":1793,"text":"No butterfly can be found in this picture.","label":[[0,2,"NEGATED"],[3,12,"ANIMAL"]],"Comments":[]}
+{"id":1794,"text":"One squirrel stood out among the others.","label":[[4,12,"ANIMAL"]],"Comments":[]}
+{"id":1795,"text":"A cat and a horse are visible.","label":[[2,5,"ANIMAL"],[12,17,"ANIMAL"]],"Comments":[]}
+{"id":1796,"text":"I don't see any squirrel in the photo.","label":[[2,7,"NEGATED"],[16,24,"ANIMAL"]],"Comments":[]}
+{"id":1797,"text":"A horse and a sheep are visible.","label":[[2,7,"ANIMAL"],[14,19,"ANIMAL"]],"Comments":[]}
+{"id":1798,"text":"What a beautiful cow in the photo!","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1799,"text":"Everyone noticed the cow immediately.","label":[[21,24,"ANIMAL"]],"Comments":[]}
+{"id":1800,"text":"A cat and a squirrel are visible.","label":[[2,5,"ANIMAL"],[12,20,"ANIMAL"]],"Comments":[]}
+{"id":1801,"text":"The chicken hid behind the tree.","label":[[4,11,"ANIMAL"]],"Comments":[]}
+{"id":1802,"text":"There is a elephant in the picture.","label":[[11,19,"ANIMAL"]],"Comments":[]}
+{"id":1803,"text":"He mentioned seeing a squirrel earlier.","label":[[22,30,"ANIMAL"]],"Comments":[]}
+{"id":1804,"text":"They couldn't find the cow at first.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1805,"text":"A cow and a spider are visible.","label":[[2,5,"ANIMAL"],[12,18,"ANIMAL"]],"Comments":[]}
+{"id":1806,"text":"They saw a squirrel while walking.","label":[[11,19,"ANIMAL"]],"Comments":[]}
+{"id":1807,"text":"A sheep and a cat are visible.","label":[[2,7,"ANIMAL"],[14,17,"ANIMAL"]],"Comments":[]}
+{"id":1808,"text":"Look at the elephant climbing the tree.","label":[[12,20,"ANIMAL"]],"Comments":[]}
+{"id":1809,"text":"A chicken and a cow are visible.","label":[[2,9,"ANIMAL"],[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1810,"text":"They couldn't find the dog at first.","label":[[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1811,"text":"They captured a chicken on camera.","label":[[16,23,"ANIMAL"]],"Comments":[]}
+{"id":1812,"text":"A chicken and a elephant are visible.","label":[[2,9,"ANIMAL"],[16,24,"ANIMAL"]],"Comments":[]}
+{"id":1813,"text":"A chicken and a spider are visible.","label":[[2,9,"ANIMAL"],[16,22,"ANIMAL"]],"Comments":[]}
+{"id":1814,"text":"A chicken and a dog are visible.","label":[[2,9,"ANIMAL"],[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1815,"text":"A dog and a horse are visible.","label":[[2,5,"ANIMAL"],[12,17,"ANIMAL"]],"Comments":[]}
+{"id":1816,"text":"A butterfly and a chicken are visible.","label":[[2,11,"ANIMAL"],[18,25,"ANIMAL"]],"Comments":[]}
+{"id":1817,"text":"I saw a sheep near the house.","label":[[8,13,"ANIMAL"]],"Comments":[]}
+{"id":1818,"text":"This picture lacks any squirrel.","label":[[13,18,"NEGATED"],[23,31,"ANIMAL"]],"Comments":[]}
+{"id":1819,"text":"Someone said there's a butterfly in this image.","label":[[23,32,"ANIMAL"]],"Comments":[]}
+{"id":1820,"text":"The butterfly stayed still for a while.","label":[[4,13,"ANIMAL"]],"Comments":[]}
+{"id":1821,"text":"A chicken and a horse are visible.","label":[[2,9,"ANIMAL"],[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1822,"text":"A elephant and a chicken are visible.","label":[[2,10,"ANIMAL"],[17,24,"ANIMAL"]],"Comments":[]}
+{"id":1823,"text":"The spider is next to the barn.","label":[[4,10,"ANIMAL"]],"Comments":[]}
+{"id":1824,"text":"A sheep and a butterfly are visible.","label":[[2,7,"ANIMAL"],[14,23,"ANIMAL"]],"Comments":[]}
+{"id":1825,"text":"This image is devoid of any elephants.","label":[[14,27,"NEGATED"],[28,37,"ANIMAL"]],"Comments":[]}
+{"id":1826,"text":"There are no elephants present in this image.","label":[[10,12,"NEGATED"],[13,22,"ANIMAL"]],"Comments":[]}
+{"id":1827,"text":"This image lacks the presence of elephants.","label":[[11,32,"NEGATED"],[33,42,"ANIMAL"]],"Comments":[]}
+{"id":1828,"text":"Elephants are not depicted in this image.","label":[[0,9,"ANIMAL"],[10,26,"NEGATED"]],"Comments":[]}
+{"id":1829,"text":"This image features no elephants at all.","label":[[11,22,"NEGATED"],[23,32,"ANIMAL"]],"Comments":[]}
+{"id":1830,"text":"The cat is hanging out by the barn.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1831,"text":"There’s a cat chilling next to the barn.","label":[[10,13,"ANIMAL"]],"Comments":[]}
+{"id":1832,"text":"The cat is lounging right beside the barn.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1833,"text":"You’ll find the cat sitting next to the barn.","label":[[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1834,"text":"The cat is over there by the barn.","label":[[4,7,"ANIMAL"]],"Comments":[]}
+{"id":1835,"text":"I can't spot a cow in this picture.","label":[[2,12,"NEGATED"],[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1836,"text":"There’s no cow visible in the photo.","label":[[0,10,"NEGATED"],[11,14,"ANIMAL"]],"Comments":[]}
+{"id":1837,"text":"I don’t see a cow anywhere in this image.","label":[[2,11,"NEGATED"],[14,17,"ANIMAL"]],"Comments":[]}
+{"id":1838,"text":"This photo doesn’t show any cows.","label":[[11,23,"NEGATED"],[28,32,"ANIMAL"]],"Comments":[]}
+{"id":1839,"text":"I’m not seeing a cow in this shot.","label":[[4,14,"NEGATED"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1840,"text":"I can't spot any chicken in the picture.","label":[[2,16,"NEGATED"],[17,24,"ANIMAL"]],"Comments":[]}
+{"id":1841,"text":"There’s no chicken visible in the photo.","label":[[0,10,"NEGATED"],[11,18,"ANIMAL"]],"Comments":[]}
+{"id":1842,"text":"I don’t see any chicken in this image.","label":[[2,11,"NEGATED"],[16,23,"ANIMAL"]],"Comments":[]}
+{"id":1843,"text":"I’m not seeing any chicken in the snapshot.","label":[[4,18,"NEGATED"],[19,26,"ANIMAL"]],"Comments":[]}
+{"id":1844,"text":"The photo doesn’t show any chicken at all.","label":[[10,22,"NEGATED"],[27,34,"ANIMAL"]],"Comments":[]}
+{"id":1845,"text":"I can't spot any sheep in this picture.","label":[[2,16,"NEGATED"],[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1846,"text":"There are no sheep visible in the photo.","label":[[10,12,"NEGATED"],[13,18,"ANIMAL"]],"Comments":[]}
+{"id":1847,"text":"I don't notice any sheep in this image.","label":[[2,14,"NEGATED"],[19,24,"ANIMAL"]],"Comments":[]}
+{"id":1848,"text":"It looks like there aren't any sheep in the photo.","label":[[14,30,"NEGATED"],[31,36,"ANIMAL"]],"Comments":[]}
+{"id":1849,"text":"I don't see any sheep hanging out in this picture.","label":[[2,11,"NEGATED"],[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1850,"text":"There’s not a single cow in this image.","label":[[8,20,"NEGATED"],[21,24,"ANIMAL"]],"Comments":[]}
+{"id":1851,"text":"You won’t spot any cows in this photo.","label":[[4,14,"NEGATED"],[19,23,"ANIMAL"]],"Comments":[]}
+{"id":1852,"text":"This picture doesn’t have any cows in it.","label":[[13,29,"NEGATED"],[30,34,"ANIMAL"]],"Comments":[]}
+{"id":1853,"text":"No cows are visible in this shot.","label":[[0,2,"NEGATED"],[3,7,"ANIMAL"]],"Comments":[]}
+{"id":1854,"text":"You can’t see any cows here.","label":[[4,17,"NEGATED"],[18,22,"ANIMAL"]],"Comments":[]}
+{"id":1855,"text":"Can you find the butterfly hidden in this picture?","label":[[17,26,"ANIMAL"]],"Comments":[]}
+{"id":1856,"text":"Are you able to locate the butterfly in this image?","label":[[27,36,"ANIMAL"]],"Comments":[]}
+{"id":1857,"text":"Do you see the butterfly tucked away in this photo?","label":[[15,24,"ANIMAL"]],"Comments":[]}
+{"id":1858,"text":"Can you identify the butterfly in this visual?","label":[[21,30,"ANIMAL"]],"Comments":[]}
+{"id":1859,"text":"Are you able to discover the butterfly in this scene?","label":[[29,38,"ANIMAL"]],"Comments":[]}
+{"id":1860,"text":"This image does not feature any horses.","label":[[11,31,"NEGATED"],[32,38,"ANIMAL"]],"Comments":[]}
+{"id":1861,"text":"You won't see a horse in this picture.","label":[[4,13,"NEGATED"],[16,21,"ANIMAL"]],"Comments":[]}
+{"id":1862,"text":"There are no horses present in this image.","label":[[10,12,"NEGATED"],[13,19,"ANIMAL"]],"Comments":[]}
+{"id":1863,"text":"This picture lacks any horses.","label":[[13,22,"NEGATED"],[23,29,"ANIMAL"]],"Comments":[]}
+{"id":1864,"text":"You can't find a horse in this photo.","label":[[4,14,"NEGATED"],[17,22,"ANIMAL"]],"Comments":[]}
+{"id":1865,"text":"I can't spot a dog in the picture.","label":[[2,12,"NEGATED"],[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1866,"text":"There doesn't seem to be a dog in this image.","label":[[6,24,"NEGATED"],[27,30,"ANIMAL"]],"Comments":[]}
+{"id":1867,"text":"I don't notice any dogs in the photo.","label":[[2,18,"NEGATED"],[19,23,"ANIMAL"]],"Comments":[]}
+{"id":1868,"text":"It looks like there’s no dog in the picture.","label":[[14,24,"NEGATED"],[25,29,"ANIMAL"]],"Comments":[]}
+{"id":1869,"text":"I’m not seeing a dog in this photo.","label":[[4,14,"NEGATED"],[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1870,"text":"That dog in the picture is absolutely stunning!","label":[[5,8,"ANIMAL"]],"Comments":[]}
+{"id":1871,"text":"What a gorgeous pup captured in that photo!","label":[[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1872,"text":"That’s such a lovely dog in the image!","label":[[21,24,"ANIMAL"]],"Comments":[]}
+{"id":1873,"text":"What an adorable dog featured in that snapshot!","label":[[17,20,"ANIMAL"]],"Comments":[]}
+{"id":1874,"text":"That photo showcases a truly beautiful dog!","label":[[39,42,"ANIMAL"]],"Comments":[]}
+{"id":1875,"text":"It's difficult to determine whether that's a cat.","label":[[45,48,"ANIMAL"]],"Comments":[]}
+{"id":1876,"text":"I'm not sure if that's a cat or not.","label":[[25,28,"ANIMAL"]],"Comments":[]}
+{"id":1877,"text":"It's tough to say if what I'm seeing is a cat.","label":[[42,45,"ANIMAL"]],"Comments":[]}
+{"id":1878,"text":"I can't quite figure out if that's a cat.","label":[[37,40,"ANIMAL"]],"Comments":[]}
+{"id":1879,"text":"It's challenging to identify if that's a cat.","label":[[41,44,"ANIMAL"]],"Comments":[]}
+{"id":1880,"text":"This image doesn't feature any elephants at all.","label":[[11,30,"NEGATED"],[31,40,"ANIMAL"]],"Comments":[]}
+{"id":1881,"text":"There are no elephants present in this picture.","label":[[10,12,"NEGATED"],[13,22,"ANIMAL"]],"Comments":[]}
+{"id":1882,"text":"This photo is completely devoid of elephants.","label":[[25,34,"NEGATED"],[35,44,"ANIMAL"]],"Comments":[]}
+{"id":1883,"text":"You won't find any elephants in this image.","label":[[4,18,"NEGATED"],[19,28,"ANIMAL"]],"Comments":[]}
+{"id":1884,"text":"This picture has no elephants in sight.","label":[[13,19,"NEGATED"],[20,29,"ANIMAL"]],"Comments":[]}
+{"id":1885,"text":"This image does not feature any sheep.","label":[[11,31,"NEGATED"],[32,37,"ANIMAL"]],"Comments":[]}
+{"id":1886,"text":"There are no sheep visible in this photograph.","label":[[10,12,"NEGATED"],[13,18,"ANIMAL"]],"Comments":[]}
+{"id":1887,"text":"This picture lacks any presence of sheep.","label":[[13,22,"NEGATED"],[35,40,"ANIMAL"]],"Comments":[]}
+{"id":1888,"text":"No sheep can be seen in this image.","label":[[0,2,"NEGATED"],[3,8,"ANIMAL"]],"Comments":[]}
+{"id":1889,"text":"This photograph does not contain any sheep.","label":[[16,36,"NEGATED"],[37,42,"ANIMAL"]],"Comments":[]}
+{"id":1890,"text":"It looks like there isn't a spider in this picture.","label":[[14,25,"NEGATED"],[28,34,"ANIMAL"]],"Comments":[]}
+{"id":1891,"text":"I don't see a spider anywhere in this image.","label":[[2,11,"NEGATED"],[14,20,"ANIMAL"]],"Comments":[]}
+{"id":1892,"text":"This image doesn't appear to have a spider in it.","label":[[11,33,"NEGATED"],[36,42,"ANIMAL"]],"Comments":[]}
+{"id":1893,"text":"It seems that there is no spider present in this photo.","label":[[23,25,"NEGATED"],[26,32,"ANIMAL"]],"Comments":[]}
+{"id":1894,"text":"I can't find a spider in this image at all.","label":[[2,12,"NEGATED"],[15,21,"ANIMAL"]],"Comments":[]}
+{"id":1895,"text":"In this particular image, one can observe that there are absolutely no cows visible at all. The absence of these animals is quite noticeable, as they are not present in any part of the frame.","label":[[47,70,"NEGATED"],[71,75,"ANIMAL"],[96,103,"NEGATED"],[154,165,"NEGATED"]],"Comments":[]}
+{"id":1896,"text":"Upon examining this picture closely, it becomes clear that there are no cows depicted within it. The composition lacks any representation of these animals, making it evident that they are not part of the visual narrative.","label":[[59,71,"NEGATED"],[72,76,"ANIMAL"],[113,122,"NEGATED"],[179,200,"NEGATED"]],"Comments":[]}
+{"id":1897,"text":"If you take a moment to look at this shot, you will realize that there are no cows to be found anywhere in the image. The scene is devoid of these creatures, which might have been expected but are completely missing.","label":[[75,77,"NEGATED"],[78,82,"ANIMAL"],[131,140,"NEGATED"],[193,215,"NEGATED"]],"Comments":[]}
+{"id":1898,"text":"In this scene, it is important to note that cows are entirely absent. Their lack of presence contributes to the overall atmosphere of the image, which does not include any elements related to these animals.","label":[[44,48,"ANIMAL"],[49,68,"NEGATED"],[76,92,"NEGATED"],[151,171,"NEGATED"]],"Comments":[]}
+{"id":1899,"text":"This photograph clearly indicates that there are no cows present within its borders. The image captures a moment or a landscape that does not feature these animals, highlighting their complete absence from the visual context.","label":[[39,51,"NEGATED"],[52,56,"ANIMAL"],[133,149,"NEGATED"],[184,200,"NEGATED"]],"Comments":[]}
+{"id":1900,"text":"That snapshot showcases such a cute dog! The way its ears perk up and its tail wags with excitement truly captures the essence of canine joy. You can almost feel the warmth and playfulness radiating from the image, making it impossible not to smile at this adorable furry friend.","label":[[36,39,"ANIMAL"]],"Comments":[]}
+{"id":1901,"text":"What a charming pup captured in that photo! The little one’s bright eyes and playful expression convey a sense of curiosity and mischief. It’s as if the pup is inviting everyone to join in on its adventures, and the overall composition of the photo perfectly highlights its endearing personality.","label":[[16,19,"ANIMAL"]],"Comments":[]}
+{"id":1902,"text":"That picture features an absolutely delightful dog! With its fluffy coat and infectious grin, this pup seems to embody happiness itself. The way it poses with such confidence and charm makes it clear that this dog is not just a pet, but a beloved member of the family, bringing joy to everyone around.","label":[[47,50,"ANIMAL"],[99,102,"ANIMAL"],[210,213,"ANIMAL"]],"Comments":[]}
+{"id":1903,"text":"How sweet is that dog in the photo! The gentle expression on its face and the way it tilts its head just adds to its charm. It’s the kind of sweetness that melts your heart and makes you want to reach out and give it a big hug. This pup radiates love and affection, making it a true treasure in the world of dogs.","label":[[18,21,"ANIMAL"]],"Comments":[]}
+{"id":1904,"text":"That image highlights an incredibly lovable dog! The pup’s playful demeanor and bright, sparkling eyes draw you in, making it hard to look away. It’s clear that this dog has a personality that shines through the lens, and the photograph captures a moment of pure joy that resonates with anyone who sees it.","label":[[44,47,"ANIMAL"],[53,58,"ANIMAL"],[166,169,"ANIMAL"]],"Comments":[]}
+{"id":1905,"text":"Do you believe that's a sheep?","label":[[24,29,"ANIMAL"]],"Comments":[]}
+{"id":1906,"text":"Would you say that's a sheep?","label":[[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1907,"text":"Do you reckon that's a sheep?","label":[[23,28,"ANIMAL"]],"Comments":[]}
+{"id":1908,"text":"Is that what you would call a sheep?","label":[[30,35,"ANIMAL"]],"Comments":[]}
+{"id":1909,"text":"Do you think that looks like a sheep?","label":[[31,36,"ANIMAL"]],"Comments":[]}
+{"id":1910,"text":"Are you convinced that what we are looking at is indeed a sheep, or do you have doubts about its identity?","label":[[58,63,"ANIMAL"]],"Comments":[]}
+{"id":1911,"text":"If you were asked to identify this animal, would you confidently label it as a sheep, or would you hesitate and consider other possibilities?","label":[[79,84,"ANIMAL"]],"Comments":[]}
+{"id":1912,"text":"What’s your opinion on this? Do you think it resembles a sheep enough to be classified as one, or do you see characteristics that suggest otherwise?","label":[[57,62,"ANIMAL"]],"Comments":[]}
+{"id":1913,"text":"If you were to name this animal based on its appearance and traits, would you refer to it as a sheep, or would you choose a different term?","label":[[95,100,"ANIMAL"]],"Comments":[]}
+{"id":1914,"text":"In your view, does this creature have the physical features and characteristics that are typically associated with a sheep, or does it seem to belong to a different category of animals?","label":[[117,122,"ANIMAL"]],"Comments":[]}
+{"id":1915,"text":"They filmed a chicken on camera.","label":[[14,21,"ANIMAL"]],"Comments":[]}
+{"id":1916,"text":"A chicken was caught on video.","label":[[2,9,"ANIMAL"]],"Comments":[]}
+{"id":1917,"text":"They recorded a chicken with their camera.","label":[[16,23,"ANIMAL"]],"Comments":[]}
+{"id":1918,"text":"They managed to snap a chicken on film.","label":[[23,30,"ANIMAL"]],"Comments":[]}
+{"id":1919,"text":"A chicken was captured on their camera.","label":[[2,9,"ANIMAL"]],"Comments":[]}
+{"id":1920,"text":"You can see a spider and a cow hanging out.","label":[[14,20,"ANIMAL"],[27,30,"ANIMAL"]],"Comments":[]}
+{"id":1921,"text":"There’s a spider and a cow in sight.","label":[[10,16,"ANIMAL"],[23,26,"ANIMAL"]],"Comments":[]}
+{"id":1922,"text":"A spider and a cow are both in view.","label":[[2,8,"ANIMAL"],[15,18,"ANIMAL"]],"Comments":[]}
+{"id":1923,"text":"Look over there, a spider and a cow are present.","label":[[19,25,"ANIMAL"],[32,35,"ANIMAL"]],"Comments":[]}
+{"id":1924,"text":"A spider and a cow are clearly visible.","label":[[2,8,"ANIMAL"],[15,18,"ANIMAL"]],"Comments":[]}
